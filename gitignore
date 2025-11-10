@@ -54,6 +54,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Configurações locais com informações sensíveis
+appsettings.Development.json
+
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
